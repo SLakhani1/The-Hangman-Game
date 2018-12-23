@@ -5,4 +5,4 @@ The Hangman game built using java(Both Backend and GUI).
 Java
 
 ## How to use?
-Just run mainframe.py inside src/hangman2. 
+Just run MainFrame.java inside src/hangman2. 
